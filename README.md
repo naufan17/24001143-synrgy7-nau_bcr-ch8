@@ -10,8 +10,8 @@ Link: https://nau-binar-car-rental.netlify.app/
 
 ## Credential Admin
 ```
-Username: Admin 1
-Password: passwordadmin1
+Username: Admin 2
+Password: passwordadmin
 ```
 ## Authors
 Muhammad Naufan Athoillah - [GitHub](https://github.com/naufan17).
